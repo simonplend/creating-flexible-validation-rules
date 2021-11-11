@@ -1,0 +1,13 @@
+{
+  "name": "creating-flexible-validation-rules",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.7.1",
+    "fluent-json-schema": "^3.0.1"
+  }
+}
